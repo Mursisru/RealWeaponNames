@@ -2,7 +2,7 @@
 
 ## 1.0.0 Build PR-R1Q1
 
-- First GitHub pre-release mirror of Engine **DEV1Q16**.
+- First GitHub release mirror of Engine **DEV1Q16** (GitHub **Latest** tag **v1.0.0**).
 - 57 canonical NATO name mappings; aircraft gun aliases; map/encyclopedia patches.
 
 ## 1.0.0 Build DEV1Q16

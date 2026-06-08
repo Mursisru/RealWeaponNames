@@ -2,7 +2,7 @@
 
 BepInEx immersion mod for **Nuclear Option**. Replaces fictional in-game weapon names with real NATO-style designations in UI only (loadout menus, HUD, encyclopedia, tactical map, notifications). Does not change weapon physics, guidance, damage, or AI.
 
-**Version:** 1.0.0 Build PR-R1Q1 (pre-release)
+**Version:** 1.0.0 Build PR-R1Q1
 
 ## Install
 

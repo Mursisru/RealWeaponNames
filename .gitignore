@@ -1,0 +1,7 @@
+**/bin/
+**/obj/
+.vs/
+*.user
+release/
+Directory.Build.user.props
+_video_frames/

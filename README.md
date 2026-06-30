@@ -7,14 +7,6 @@
 [![Version](https://img.shields.io/badge/Version-1.0.0-green)](https://github.com/Mursisru/RealWeaponNames/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/Mursisru/RealWeaponNames/blob/main/LICENSE)
 
-BepInEx immersion mod for **[Nuclear Option](https://store.steampowered.com/app/2168680/Nuclear_Option/)**. Replaces fictional in-game weapon names with real NATO-style designations in **UI only** (loadout menus, HUD, encyclopedia, notifications). Does **not** change weapon physics, guidance, damage, or AI.
-
-**Plugin GUID:** `com.at747.realweaponnames`  
-**Version:** `1.0.0` · dev `1.0.0 Build DEV1Q16`
-
-> [!NOTE]
-> **Multiplayer safe** — cosmetic client-side strings only; no gameplay or network changes.
-
 ---
 
 ## Critical warnings
@@ -24,6 +16,14 @@ BepInEx immersion mod for **[Nuclear Option](https://store.steampowered.com/app/
 
 > [!NOTE]
 > **Multiplayer safe** - cosmetic client-side UI strings only; no gameplay or network changes.
+
+BepInEx immersion mod for **[Nuclear Option](https://store.steampowered.com/app/2168680/Nuclear_Option/)**. Replaces fictional in-game weapon names with real NATO-style designations in **UI only** (loadout menus, HUD, encyclopedia, notifications). Does **not** change weapon physics, guidance, damage, or AI.
+
+**Plugin GUID:** `com.at747.realweaponnames`  
+**Version:** `1.0.0` · dev `1.0.0 Build DEV1Q16`
+
+> [!NOTE]
+> **Multiplayer safe** — cosmetic client-side strings only; no gameplay or network changes.
 
 ## Install
 

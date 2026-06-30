@@ -1,7 +1,13 @@
-**/bin/
-**/obj/
+bin/
+obj/
 .vs/
 *.user
-release/
+libs/
+Directory.Build.props
 Directory.Build.user.props
-_video_frames/
+.cursorrules
+.cursor/
+ffmpeg.exe
+local_build_scripts/
+_buildroot/
+.debug/

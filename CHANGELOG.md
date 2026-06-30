@@ -1,9 +1,10 @@
 # Changelog
 
-## 1.0.0 Build PR-R1Q1
+## [1.0.0] - 2026-06-30
 
-- First GitHub release mirror of Engine **DEV1Q16** (GitHub **Latest** tag **v1.0.0**).
-- 57 canonical NATO name mappings; aircraft gun aliases; map/encyclopedia patches.
+### Changed
+- Documentation refresh: Developer header, badges, GitHub Alerts, Keywords, gitignore hygiene.
+
 
 ## 1.0.0 Build DEV1Q16
 

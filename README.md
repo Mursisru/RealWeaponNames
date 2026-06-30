@@ -17,12 +17,13 @@ BepInEx immersion mod for **[Nuclear Option](https://store.steampowered.com/app/
 
 ---
 
-## Requirements
+## Critical warnings
 
-- **[Nuclear Option](https://store.steampowered.com/app/2168680/Nuclear_Option/)** (Steam)
-- **[BepInEx 5](https://docs.bepinex.dev/)** x64
+> [!IMPORTANT]
+> **BepInEx 5 (x64) required** - install [BepInEx](https://docs.bepinex.dev/articles/user_guide/installation/index.html) before this mod.
 
----
+> [!NOTE]
+> **Multiplayer safe** - cosmetic client-side UI strings only; no gameplay or network changes.
 
 ## Install
 
@@ -37,6 +38,11 @@ BepInEx immersion mod for **[Nuclear Option](https://store.steampowered.com/app/
    ```
 
 3. Launch once. Config: `BepInEx\config\com.at747.realweaponnames.cfg`
+
+## Requirements
+
+- **[Nuclear Option](https://store.steampowered.com/app/2168680/Nuclear_Option/)** (Steam)
+- **[BepInEx 5](https://docs.bepinex.dev/)** x64
 
 ---
 
